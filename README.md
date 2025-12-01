@@ -1,11 +1,3 @@
-# uOttawa - 2024-2025 - SEG2505A - Projet - Groupe 11
-
-## Avis pour la correction du livrable 4 
-
-TRES IMPORTANT : Pour le livrable 4 , remplacer la ligne 14 du code de la classe DatabaseHelper.java 
-private static final String DATABASE_NAME = "pc_management.db"; à remplacer par  : 
-private static final String DATABASE_NAME = "pc_management_updated.db";
-
 Nom du projet : BuildItTech
 
 ## Membres du projet
@@ -13,15 +5,7 @@ Nom du projet : BuildItTech
 | Prénom      | NOM         | Identifiant GitHub |
 |-------------|-------------|--------------------|
 |Olivier      |Storey       |olivierstorey096    |
-|Melvyn Avoa  |Avoa         |aavoa037            |
-
-## Introduction
-
-Voici notre dernier livrable "Démonstration". Pour ce livrable nous avons terminer l'implémentation des connexion entre les pages d'utilisateurs pour que le stock soit modifier par non seulement StoreKeeper mais aussi Assembler. 
-
-## Clarifications sur les exigences
-
-Rédaction propre de notre projet BuildItTech.
+|Melvyn Avoa  |Avoa         |MelvynAv          |
 
 ## Modélisation
 
