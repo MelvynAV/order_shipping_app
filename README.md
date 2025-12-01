@@ -1,12 +1,5 @@
 Nom du projet : BuildItTech
 
-## Membres du projet
-
-| Prénom      | NOM         | Identifiant GitHub |
-|-------------|-------------|--------------------|
-|Olivier      |Storey       |olivierstorey096    |
-|Melvyn Avoa  |Avoa         |MelvynAv          |
-
 ## Modélisation
 
 Dans le ficher UML.md se trouve les diagrammes de classes, d'état, de séquence et d'activité.
